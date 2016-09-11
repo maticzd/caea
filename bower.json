@@ -1,0 +1,21 @@
+{
+  "name": "caea",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Matias <maticzd@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/maticzd/caea",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "uikit": "^2.27.1",
+    "angular": "^1.5.8"
+  }
+}
